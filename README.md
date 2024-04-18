@@ -1,4 +1,5 @@
 # NewCodingBot
-its just a demo repository with nothing inside 
+
+its just a demo repository with nothing inside
 <br>
-Author - Shrishail Gobare
+Author - Shrishail Gobare(try_hard)
